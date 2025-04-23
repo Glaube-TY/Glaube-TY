@@ -1,8 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+everyone%2C+to+my+homepage!+;I'm+confident+that+my+project+will+be+a+valuable+resource+for+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+everyone%2C+to+my+homepage!+" alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaube-TY)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Glaube-TY&left_color=green&right_color=red)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Glaube-TY)
 
