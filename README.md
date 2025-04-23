@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+everyone%2C+to+my+homepage!+;I'm+confident+that+my+project+will+be+a+valuable+resource+for+you!" alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaube-TY)
 
