@@ -1,23 +1,69 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+everyone%2C+to+my+homepage!+" alt="Typing SVG" /></a>
+<h1 align="center">Hi, I'm Glaube-TY 👋</h1>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glaube-TY&show_icons=true&theme=merko&hide_border=true&width=400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true&width=400" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=University+Student;SiYuan+Note+Plugin+Hobbyist;Frontend+Enthusiast;Love+Reading%2C+Fitness%2C+Music" alt="Typing SVG" />
+</p>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Glaube-TY&theme=vue)
+<p align="center">
+  <a href="https://ld246.com/member/GlaubeTY" target="_blank">
+    <img src="https://img.shields.io/badge/LD246-Profile-blue?logo=google-chrome" />
+  </a>
+  <img src="https://img.shields.io/badge/Frontend-JavaScript%20%7C%20TypeScript%20%7C%20CSS-orange?logo=javascript" />
+  <img src="https://img.shields.io/badge/SiYuan%20Note-Plugin%20Hobbyist-success?logo=markdown" />
+  <a href="https://b3log.org/siyuan/?utm_source=ld246.com" target="_blank">
+    <img src="https://img.shields.io/badge/SiYuan%20Note-Official%20Site-brightgreen?logo=google-chrome" />
+  </a>
+</p>
 
-<!--
-**Glaube-TY/Glaube-TY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am currently a university student.
+- 💡 Frontend development and [SiYuan Note](https://b3log.org/siyuan/?utm_source=ld246.com) plugin development are just my hobbies, not my research or academic focus.
+- 📚 Hobbies: Reading, fitness, music.
+- 🌈 I enjoy blending technology with creativity and design.
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Glaube-TY/siyuan-homepage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Glaube-TY&repo=siyuan-homepage&theme=radical" />
+  </a>
+  <a href="https://github.com/Glaube-TY/siyuan-douban">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Glaube-TY&repo=siyuan-douban&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,svelte,html,css,github,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glaube-TY&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glaube-TY&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect & Community
+
+- 🔗 [LD246 Profile](https://ld246.com/member/GlaubeTY)
+- 📫 Email: 1978217536@qq.com
+- 💬 Feel free to contact me via Issues or Discussions!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer&text=Welcome%20to%20my%20GitHub!&fontSize=25&fontColor=ffffff" />
+</p>
