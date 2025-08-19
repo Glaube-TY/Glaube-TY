@@ -33,9 +33,3 @@
 - 🔗 [Blog Homepage](https://glaube-ty.top/)
 - 📫 Email: 1978217536@qq.com
 - 💬 Feel free to contact me via Issues or Discussions!
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer&text=Welcome%20to%20my%20GitHub!&fontSize=25&fontColor=ffffff" />
-</p>
