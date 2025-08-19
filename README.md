@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Glaube-TY 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=University+Student;SiYuan+Note+Plugin+Hobbyist;Frontend+Enthusiast;Love+Reading%2C+Fitness%2C+Music" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=University+Student;SiYuan+Note+Plugin+Hobbyist;Frontend+Enthusiast;Lov[...]
 </p>
 
 <p align="center">
@@ -23,6 +23,7 @@
 - 💡 Frontend development and [SiYuan Note](https://b3log.org/siyuan/?utm_source=ld246.com) plugin development are just my hobbies, not my research or academic focus.
 - 📚 Hobbies: Reading, fitness, music.
 - 🌈 I enjoy blending technology with creativity and design.
+- 📝 Blog: [https://glaube-ty.top/](https://glaube-ty.top/)
 
 ---
 
@@ -59,6 +60,7 @@
 ## 🌐 Connect & Community
 
 - 🔗 [LD246 Profile](https://ld246.com/member/GlaubeTY)
+- 🔗 [Blog Homepage](https://glaube-ty.top/)
 - 📫 Email: 1978217536@qq.com
 - 💬 Feel free to contact me via Issues or Discussions!
 
