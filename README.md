@@ -31,5 +31,5 @@
 
 - 🔗 [LD246 Profile](https://ld246.com/member/GlaubeTY)
 - 🔗 [Blog Homepage](https://glaube-ty.top/)
-- 📫 Email: 1978217536@qq.com
+- 📫 Email: glaube_ty@qq.com
 - 💬 Feel free to contact me via Issues or Discussions!
