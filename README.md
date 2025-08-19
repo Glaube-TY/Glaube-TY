@@ -27,36 +27,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Glaube-TY/siyuan-homepage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Glaube-TY&repo=siyuan-homepage&theme=radical" />
-  </a>
-  <a href="https://github.com/Glaube-TY/siyuan-douban">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Glaube-TY&repo=siyuan-douban&theme=radical" />
-  </a>
-</p>
-
----
-
-## 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,svelte,html,css,github,python" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glaube-TY&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glaube-TY&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect & Community
 
 - 🔗 [LD246 Profile](https://ld246.com/member/GlaubeTY)
