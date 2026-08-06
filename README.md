@@ -23,13 +23,13 @@
 - 💡 Frontend development and [SiYuan Note](https://b3log.org/siyuan/?utm_source=ld246.com) plugin development are just my hobbies, not my research or academic focus.
 - 📚 Hobbies: Reading, fitness, music.
 - 🌈 I enjoy blending technology with creativity and design.
-- 📝 Blog: [blog.glaube-ty.top](https://blog.glaube-ty.top)
+- 📝 Personal website: [Glaube-TY 个人网站](https://glaube-ty.top)
 
 ---
 
 ## 🌐 Connect & Community
 
 - 🔗 [LD246 Profile](https://ld246.com/member/GlaubeTY)
-- 🔗 [Blog Homepage](https://blog.glaube-ty.top)
+- 🔗 [My Homepage](https://glaube-ty.top)
 - 📫 Email: glaube_ty@qq.com
 - 💬 Feel free to contact me via Issues or Discussions!
